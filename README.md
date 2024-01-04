@@ -9,7 +9,7 @@ Make sure you have Docker and Docker Compose installed on your system.
 * [Docker Compose Installation Guide](https://docs.docker.com/compose/install/)
 
 ## Setup
-Unzip this repository to your local machine:
+git clone this repository to your local machine:
 
 Set up environment variables:
 
